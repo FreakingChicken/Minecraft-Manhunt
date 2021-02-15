@@ -1,0 +1,8 @@
+name: ManHunt
+version: ${project.version}
+main: me.freakingchicken.manhunt.ManHunt
+api-version: 1.16
+authors: [ FreakingChicken ]
+description: Minecraft ManHunt
+depend:
+  - CommandAPI

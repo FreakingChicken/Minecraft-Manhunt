@@ -1,0 +1,8 @@
+# Set this to true if you want compasses to always track the speedrunner. Set it to false to require the players to rightclick it.
+
+compass-always-track: true
+
+# Set this to true if you want tracking in the nether/end. Set it to false for tracking to not work in the nether/end
+# Tracking will happen in the form of particles.
+
+nether-end-tracking: true
